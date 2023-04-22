@@ -30,6 +30,9 @@ ou
 ```sh
     kubectl run --image nginx --port 80 reverse-proxy --dry-run=client -o yaml > pod.yaml
 ```
+   - Badge
+
+![Badge Day 01](https://github.com/juninhocruzg3/Descomplicando_Kubernetes/blob/master/badges/day01.png)
 
 
 ## Day 02
@@ -71,7 +74,12 @@ ou
 ```
 
 
-## Day 03
+   - Badge
+
+![Badge Day 02](https://github.com/juninhocruzg3/Descomplicando_Kubernetes/blob/master/badges/day02.png)
+
+
+## Day 03 - The last
 
   - Deployment strategies
     - RollingUpdate
@@ -110,3 +118,8 @@ spec:
 status: {}
 ```
   
+  
+  
+   - Badge
+
+![Badge Day 03](https://github.com/juninhocruzg3/Descomplicando_Kubernetes/blob/master/badges/day03.png)

@@ -1,5 +1,6 @@
-# Descomplicando_Kubernetes
-Repositório com atividades do curso Descomplicando Kubernetes da LinuxTips
+# Kubernetes Expert Week
+
+Repositório com atividades do curso Descomplicando Kubernetes da LinuxTips.
 
 ## Day 01
 Arquivos criados durante as atividades do [Day-1](https://github.com/badtuxx/CertifiedContainersExpert/tree/main/DescomplicandoKubernetes/day-1) do curso.
@@ -123,3 +124,7 @@ status: {}
    - Badge
 
 ![Badge Day 03](https://github.com/juninhocruzg3/Descomplicando_Kubernetes/blob/master/badges/day03.png)
+
+## Agradecimentos
+
+Obrigado [@badtuxx](https://github.com/badtuxx) por todo o conheciemnto compartilhado nesses 3 dias, e estendo meu agradecimento a toda a equipe da LinuxTips envolvida neste projeto.
